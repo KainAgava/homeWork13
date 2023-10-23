@@ -1,0 +1,8 @@
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\bin\Debug\homeWork2.9.exe.config
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\bin\Debug\homeWork2.9.exe
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\bin\Debug\homeWork2.9.pdb
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\obj\Debug\homeWork2.9.csproj.AssemblyReference.cache
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\obj\Debug\homeWork2.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\obj\Debug\homeWork2.9.csproj.CoreCompileInputs.cache
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\obj\Debug\homeWork2.9.exe
+C:\Users\rakko\source\repos\homeWork2.0\homeWork2.9\homeWork2.9\obj\Debug\homeWork2.9.pdb
